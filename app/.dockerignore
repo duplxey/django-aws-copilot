@@ -1,0 +1,15 @@
+.idea/
+
+env/
+venv/
+.env/
+.venv/
+
+.aws.env
+.dev.env
+
+*.pyc
+__pycache__/
+
+mediafiles/
+staticfiles/
